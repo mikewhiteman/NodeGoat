@@ -1,0 +1,12 @@
+{
+  "summary": {
+    "title": "Test Threat Model",
+    "owner": "Michael Whiteman",
+    "description": "test threat model"
+  },
+  "detail": {
+    "contributors": [],
+    "diagrams": [],
+    "reviewer": "Michael Whiteman"
+  }
+}
